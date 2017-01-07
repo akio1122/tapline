@@ -1,0 +1,8 @@
+export_actor:
+  advice_session_id: 1
+  reference_id: 1
+  reference_type: Expert
+customer_actor:
+  advice_session_id: 1
+  reference_id: 1
+  reference_type: Customer
